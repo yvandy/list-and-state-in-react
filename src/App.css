@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  color: violet;
+  background-color: teal;
+  margin: 2rem;
+  margin-bottom: 5rem;
+}
+
+#btn{
+  text-emphasis-color: red;
+  color: brown;
+  text-shadow: chartreuse;
+}
